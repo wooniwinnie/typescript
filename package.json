@@ -1,0 +1,8 @@
+{
+  "name": "typescript",
+  "packageManager": "yarn@3.5.1",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "typescript": "^5.0.4"
+  }
+}
